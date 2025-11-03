@@ -38,3 +38,6 @@ jobs:
           -Dsonar.sources=. \
           -Dsonar.host.url=http://4.239.170.208:9000 \
           -Dsonar.login=${{ secrets.SONAR_TOKEN }}
+
+
+          
